@@ -40,7 +40,7 @@ https://pcbway.com
 https://aisler.net
 
 
-## If you want to hand assemble your PCBs
+## Components for your PCBs, if you want to assemble the PCBs yourself
 
 **LCSC (China)**
 
