@@ -1,6 +1,18 @@
 # KiCad-PCB-design-workshop
 This repo contains most of the files related to my [PCB design workshop using KiCad 7](https://workshops.glowingkitty.com). To learn how you can build a simple PCB and then continue with easily building a more complex LED project.
 
+## This workshop is made possible by your donation
+
+Donations are split between xHain (the non-profit space where we meet, for providing the space) and me (for the time and effort I put into the workshop). If you want to say thank you and support the workshops, I suggest a donation of 10€-30€.
+
+[Donate via PayPal](https://paypal.glowingkitty.com/)
+
+[Donate via Apple Pay / Google Pay / Card](https://revolut.glowingkitty.com/)
+
+If this is currently financially difficult for you: telling others about [my workshops](https://workshops.glowingkitty.com) also helps me out a lot. 
+
+Thank you!
+
 ## Workshop preparation
 
 ### Download KiCad 7
