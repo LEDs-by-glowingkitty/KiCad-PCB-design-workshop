@@ -15,15 +15,12 @@ Thank you!
 
 ## Workshop preparation
 
-### Download KiCad 7
+### Download & install KiCad 7
 
-To download KiCad 7 (Release Candidate), check out their downloads page (currently in the nightly builds section):
+To download KiCad 7, check out their downloads page:
 
-[MacOS (1.4GB)](https://downloads.kicad.org/kicad/macos/explore/nightlies)
+[https://www.kicad.org/download/](https://www.kicad.org/download/)
 
-[Windows (1.2GB, the latest .exe)](https://downloads.kicad.org/kicad/windows/explore/nightlies)
-
-[Linux (Nightly Development Builds)](https://www.kicad.org/download/)
 
 ## Start KiCad and make sure you have the libraries installed
 
@@ -33,13 +30,13 @@ Start KiCad, setup the recommended default settings, then go to Preferences -> M
 
 If the list is empty instead, you can download the libraries from the following links and add them manually. If you have difficulties with that, we can do it together during the workshop.
 
-[Download symbols (8.1MB)](https://gitlab.com/kicad/libraries/kicad-symbols/-/archive/7.0.0-rc2/kicad-symbols-7.0.0-rc2.zip)
+[Download symbols (8.1MB)](https://gitlab.com/kicad/libraries/kicad-symbols/-/archive/7.0.0/kicad-symbols-7.0.0.zip)
 
-[Download footprints (43.3MB)](https://gitlab.com/kicad/libraries/kicad-footprints/-/archive/7.0.0-rc2/kicad-footprints-7.0.0-rc2.zip)
+[Download footprints (43.3MB)](https://gitlab.com/kicad/libraries/kicad-footprints/-/archive/7.0.0/kicad-footprints-7.0.0.zip)
 
-**(Optional for workshop, but recommended for every day use):**
+**(Optional for workshop, but highly recommended for every day use):**
 
-[Download the 3D models (955.6MB)](https://gitlab.com/kicad/libraries/kicad-packages3D/-/archive/7.0.0-rc2/kicad-packages3D-7.0.0-rc2.zip)
+[Download the 3D models (955.6MB)](https://gitlab.com/kicad/libraries/kicad-packages3D/-/archive/7.0.0/kicad-packages3D-7.0.0.zip)
 
 ## After the workshop, feel free to check out these resources for KiCad
 
